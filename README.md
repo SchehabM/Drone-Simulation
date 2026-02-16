@@ -5,3 +5,4 @@
 * GOAL (1): Make the drone take off and move forward then land again.
 * GOAL (2): Make the drone fly in a Non-Linear path.
 * GOAL (3): Add Lidar to avoid obstacles autonomously.
+* Videos avalible on my Linkedln: https://www.linkedin.com/in/shehab-mohamed-5a4825209/
